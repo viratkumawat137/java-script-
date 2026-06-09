@@ -1,6 +1,6 @@
 // JavaScript mein Function code ka ek block hota hai jo kisi kaam ko perform karta hai aur jab zarurat ho tab call kiya ja sakta hai.
 
-// 1.Function Declaration
+// 1.Function Declaration              
 
 // function greet() {
 //   console.log("Hello Virat!");
