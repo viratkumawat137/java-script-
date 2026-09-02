@@ -4,4 +4,4 @@ data.addEventListener("click",()  => {
 })       
                                                                
 document.write("hello world")
-// console.log("hello world rr");
+// console.log("hello world rr");                           
