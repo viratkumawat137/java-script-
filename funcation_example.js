@@ -10,7 +10,7 @@
 
 
 
-// 2.Parameters & Arguments  & regular funcations 
+// 2.Parameters & Arguments  & regular funcations                                          
 
 // function add(a, b) {   // a aur b parameters hain
 //   console.log(a + b);
