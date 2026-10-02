@@ -9,7 +9,7 @@
 // greet();                
 
 
-
+                                                       
 // 2.Parameters & Arguments  & regular funcations                                          
 
 // function add(a, b) {   // a aur b parameters hain
